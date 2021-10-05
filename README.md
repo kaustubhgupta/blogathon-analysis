@@ -18,7 +18,7 @@ Blogathons are competitions that are conducted for over a month or so where, ins
 - **Python, Data, beginner. learning, and project** are some of the **most popular** categories of all time.
 - **Docker, R, Julia, Excel, and Deployment** are some of the **least explored** categories. 
 
-## Project Tech Stack
+## Project Tech Stack 🏟
 - Python (Language)
 - Libraries
   - urllib.request (Making request to the website)
