@@ -1,5 +1,7 @@
 # Analytics Vidhya Blogathon Data Analysis 📈📉📊
 
+![blogathon-analysis](https://socialify.git.ci/kaustubhgupta/blogathon-analysis/image?description=1&language=1&owner=1&pattern=Circuit%20Board&theme=Light)
+
 Blogathons are competitions that are conducted for over a month or so where, instead of coding, we need to create technical content on any relevant topic. In this Analysis, relevant data were extracted from blogathons, and then concluded some of the articles and blogathon trends, most popular and unexplored topics.
 
 **Step-by-Step Extraction and Analysis Article Link: [Guide For Data Analysis: From Data Extraction to Dashboard](https://www.analyticsvidhya.com/blog/2021/09/guide-for-data-analysis-from-data-extraction-to-dashboard/)**
